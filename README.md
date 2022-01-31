@@ -14,7 +14,7 @@ This is a library to schedule calls with fix time rate to call the app actuator 
 <dependency>
     <groupId>com.vfc.mkpl</groupId>
     <artifactId>mkpl-common-springcloud-config-refresher</artifactId>
-    <version>1.0.4</version>
+    <version>1.0.0</version>
     <scope>runtime</scope>
 </dependency>
 
